@@ -2,7 +2,7 @@
 
 # Hi There 👋! Vijay Here!
 
-> **_"A journey of a thousand miles begins with a single step"_** **_-- Lao Tzu_**
+> **_"A journey of a thousand miles begins with a single step"_** **_- Lao Tzu_**
 
 > **"In a gentle way, you can shake the world"** **_- Mahatama Ghandi_**
 
