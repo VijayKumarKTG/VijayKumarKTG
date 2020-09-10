@@ -1,7 +1,4 @@
-<head>
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-  </head>
-  # Hi There 👋! Vijay Here!
+# Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! Vijay Here!
 
 > **_"A journey of a thousand miles begins with a single step"_** **_- Lao Tzu_**
 
@@ -9,9 +6,40 @@
 
 > **"One child, one teacher, one pen, and one book can change the world"** **_- Malala Yousafzai_**
 
-- 🔭 I’m currently working on improving my full stack web development skills.
-- 🌱 I’m currently learning Computer Technology at University of Computer Studies, Mandalay. Also wanna explore Jamstack, AWS, GraphQL and love to learn new things 😍. Learning photography as a hobby from Cousera.
-- 👯 I’m looking to collaborate on any web related projects.
-- 🤔 I’m looking for help with blog writing and choosing interesting blog topics. I'll be feel lucky to help someone with learning web development.
-- 📫 How to reach me: [<i class="fas fa-globe">Portfolio</i>](https://vijaykumarktg.tech) [<i class="fas fa-envelope">Gmail</i>](mailto:vijaykumarktg18@gmail.com) [<i class="fab fa-linkedin-in">LinkedIn</i>](https://www.linkedin.com/in/vijay-kumar-b74573166/) [<i class="fab fa-twitter">Twitter</i>](https://twitter.com/vijaykumarktg18) [<i class="fab fa-instagram">Instagram</i>](https://www.instagram.com/vijaykumarktg18/) [<i class="fab fa-facebook-f">Facebook</i>](https://web.facebook.com/profile.php?id=100022369323480)
-- ⚡ Fun fact: ...
+## 👨🏻‍💻 About Me
+
+- 🔭 &nbsp; Working on improving my full stack web development skills.
+- 🎓 &nbsp; Studying Computer Technology at University of Computer Studies, Mandalay. 
+- 🌱 &nbsp; Planning to explore Jamstack, AWS, GraphQL and love to learn new things 😍.
+- 💻 &nbsp; Learning data structure, algorithm, system architecture and design by practising challenges on [Leetcode](https://leetcode.com/vijaykumarktg/).
+- 💼 &nbsp; Looking to collaborate 👯 on any web related projects.
+- 🤔 &nbsp; Learning photography as a hobby from Cousera and write blogs on [Dev Community](https://dev.to/vijaykumarktg18).
+
+[![VijayKumarKTG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VijayKumarKTG&show_icons=true)](https://github.com/VijayKumarKTG)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<a href="https://vijaykumarktg.tech">
+  <img align="left" alt="Vijay's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/svgs/solid/globe.svg" />
+</a>
+<a href="mailto:vijaykumarktg18@gmail.com">
+  <img align="left" alt="Mail to Vijay" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/svgs/solid/mail-bulk.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vijaykumarktg/">
+  <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/vijaykumarktg18">
+  <img align="left" alt="Vijay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://stackoverflow.com/users/10521908/vijay-kumar">
+  <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />
+</a>
+<a href="https://www.instagram.com/vijaykumarktg18/">
+  <img align="left" alt="Vijay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/svgs/brands/instagram.svg" />
+</a>
+<a href="https://web.facebook.com/profile.php?id=100022369323480">
+  <img align="left" alt="Vijay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/svgs/brands/facebook.svg" />
+</a>
+<br />
+
+⭐️ From [VijayKumarKTG](https://github.com/VijayKumarKTG)
