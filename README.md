@@ -40,6 +40,7 @@
 <a href="https://web.facebook.com/profile.php?id=100022369323480">
   <img align="left" alt="Vijay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/svgs/brands/facebook.svg" />
 </a>
+
 <br />
 
 ⭐️ From [VijayKumarKTG](https://github.com/VijayKumarKTG)
