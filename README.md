@@ -1,19 +1,13 @@
 # Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! Vijay Here!
 
-> **_"A journey of a thousand miles begins with a single step"_** **_- Lao Tzu_**
-
-> **"In a gentle way, you can shake the world"** **_- Mahatama Ghandi_**
-
-> **"One child, one teacher, one pen, and one book can change the world"** **_- Malala Yousafzai_**
-
 ## 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; Working on improving my full stack web development skills.
+- 🔭 &nbsp; Working on improving my full-stack web development skills.
 - 🎓 &nbsp; Studying Computer Technology at University of Computer Studies, Mandalay. 
-- 🌱 &nbsp; Planning to explore Jamstack, AWS, GraphQL and love to learn new things 😍.
+- 🌱 &nbsp; Interested Jamstack, AWS, GraphQL and love to learn new things 😍.
 - 💻 &nbsp; Learning data structure, algorithm, system architecture and design by practising challenges on [Leetcode](https://leetcode.com/vijaykumarktg/).
-- 💼 &nbsp; Looking to collaborate 👯 on any web related projects.
-- 🤔 &nbsp; Learning photography as a hobby from Cousera and write blogs on [Dev Community](https://dev.to/vijaykumarktg18).
+- 💼 &nbsp; Looking to collaborate 👯 on any web-related projects.
+- 🤔 &nbsp; Learning photography as a hobby from Coursera and write blogs on [Dev Community](https://dev.to/vijaykumarktg18).
 
 [![VijayKumarKTG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VijayKumarKTG&show_icons=true)](https://github.com/VijayKumarKTG)
 
