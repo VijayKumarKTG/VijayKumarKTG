@@ -13,10 +13,10 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<a href="https://vijaykumarktg.tech">
+<a href="https://vijaykumar.vercel.app">
   <img align="left" alt="Vijay's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/svgs/solid/globe.svg" />
 </a>
-<a href="mailto:vijaykumarktg18@gmail.com">
+<a href="mailto:vijaykumardevktg@gmail.com">
   <img align="left" alt="Mail to Vijay" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/svgs/solid/mail-bulk.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vijaykumarktg/">
