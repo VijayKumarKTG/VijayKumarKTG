@@ -28,12 +28,6 @@
 <a href="https://stackoverflow.com/users/10521908/vijay-kumar" target="_blank">
   <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />
 </a>
-<a href="https://www.instagram.com/vijaykumarktg18/" target="_blank">
-  <img align="left" alt="Vijay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/svgs/brands/instagram.svg" />
-</a>
-<a href="https://web.facebook.com/profile.php?id=100022369323480" target="_blank">
-  <img align="left" alt="Vijay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/svgs/brands/facebook.svg" />
-</a>
 
 <br />
 
