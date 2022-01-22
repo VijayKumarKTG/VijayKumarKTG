@@ -5,9 +5,9 @@
 - 🔭 &nbsp; Working on improving my full-stack web development skills.
 - 🎓 &nbsp; Studying Computer Technology at University of Computer Studies, Mandalay. 
 - 🌱 &nbsp; Interested Jamstack, AWS, GraphQL, and love to learn new things 😍.
-- 💻 &nbsp; Learning data structure, algorithm, system architecture, and design by practicing challenges on [Leetcode](https://leetcode.com/vijaykumarktg/).
-- 💼 &nbsp; Looking to collaborate 👯 on any web-related projects.
-- 🤔 &nbsp; Learning photography as a hobby from Coursera and write blogs on [Dev Community](https://dev.to/vijaykumarktg18).
+<!-- - 💻 &nbsp; Learning data structure, algorithm, system architecture, and design by practicing challenges on [Leetcode](https://leetcode.com/vijaykumarktg/). -->
+- 💼 &nbsp; Looking to collaborate on any web-related projects.
+<!-- - 🤔 &nbsp; Learning photography as a hobby from Coursera and writing blogs on [Dev Community](https://dev.to/vijaykumarktg18). -->
 
 [![VijayKumarKTG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VijayKumarKTG&show_icons=true)](https://github.com/VijayKumarKTG)
 
