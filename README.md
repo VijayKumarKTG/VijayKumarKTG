@@ -1,4 +1,4 @@
-# Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">! Vijay Here!
+# Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">! Vijay Here!
 
 ## 👨🏻‍💻 About Me
 
