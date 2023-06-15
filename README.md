@@ -2,10 +2,10 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; Working on improving my front-end and full-stack web development skills.
-- 🎓 &nbsp; Studying Robotics at International University of Applied Sciences. 
-- 🌱 &nbsp; Interested Jamstack, AWS, GraphQL, and love to learn new things 😍.
-- 💼 &nbsp; Looking to collaborate on any web-related projects.
+- 🔭 &nbsp; Working on improving my front-end, web3 and full-stack web development skills. 
+- ⛓️ &nbsp; Building engaging web3, NFT, and DeFi Projects at Pandora Finance.
+- 🌱 &nbsp; I am Interested in Jamstack, AWS, and GraphQL, and I love learning new things 😍.
+- 💼 &nbsp; Looking to collaborate on exciting projects.
 <!-- 💻 &nbsp; Learning data structure, algorithm, system architecture, and design by practicing challenges on [Leetcode](https://leetcode.com/vijaykumarktg/).
  🤔 &nbsp; Learning photography as a hobby from Coursera and writing blogs on [Dev Community](https://dev.to/vijaykumarktg18). -->
 
@@ -30,7 +30,8 @@
 </a>
 
 <br />
+<br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VijayKumarKTG&label=Profile%20views&color=0e75b6&style=flat" alt="VijayKumarKTG" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=VijayKumarKTG&label=Profile%20views&color=0e75b6&style=flat" alt="VijayKumarKTG" /></p>
 
 ⭐️ From [VijayKumarKTG](https://github.com/VijayKumarKTG)
