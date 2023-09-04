@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 About Me
 
 - 🔭 &nbsp; Working on improving my front end, web3 and blockchain skills.
-- ⛓️ &nbsp; Building engaging web3, NFT, and DeFi Projects at Pandora Finance.
+- ⛓️ &nbsp; Building engaging web3, NFT, and DeFi products at Pandora Finance.
 - 🌱 &nbsp; Interested in Blockchain, DeFi, Zero-knowledge proofs, Web3, and Decentralization 😍.
 - 💼 &nbsp; Looking to collaborate on exciting projects.
 <!-- 💻 &nbsp; Learning data structure, algorithm, system architecture, and design by practising challenges on [Leetcode](https://leetcode.com/vijaykumarktg/).
