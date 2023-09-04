@@ -20,9 +20,6 @@
 <a href="https://www.linkedin.com/in/vijaykumarktg/" target="_blank">
   <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/vijaykumarktg18" target="_blank">
-  <img align="left" alt="Vijay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://stackoverflow.com/users/10521908/vijay-kumar" target="_blank">
   <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />
 </a>
