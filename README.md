@@ -9,8 +9,6 @@
 <!-- 💻 &nbsp; Learning data structure, algorithm, system architecture, and design by practicing challenges on [Leetcode](https://leetcode.com/vijaykumarktg/).
  🤔 &nbsp; Learning photography as a hobby from Coursera and writing blogs on [Dev Community](https://dev.to/vijaykumarktg18). -->
 
-[![VijayKumarKTG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VijayKumarKTG&show_icons=true)](https://github.com/VijayKumarKTG)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <a href="https://vijaykumar.vercel.app" target="_blank">
@@ -28,10 +26,5 @@
 <a href="https://stackoverflow.com/users/10521908/vijay-kumar" target="_blank">
   <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />
 </a>
-
-<br />
-<br />
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=VijayKumarKTG&label=Profile%20views&color=0e75b6&style=flat" alt="VijayKumarKTG" /></p>
 
 ⭐️ From [VijayKumarKTG](https://github.com/VijayKumarKTG)
