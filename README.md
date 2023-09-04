@@ -26,5 +26,3 @@
 <a href="https://stackoverflow.com/users/10521908/vijay-kumar" target="_blank">
   <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />
 </a>
-
-⭐️ From [VijayKumarKTG](https://github.com/VijayKumarKTG)
