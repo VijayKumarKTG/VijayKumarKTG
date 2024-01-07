@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Interested in Blockchain, DeFi, Zero-knowledge proofs, Web3, and Decentralization 😍.
 - 💼 &nbsp; Looking to collaborate on exciting projects.
 <!-- 💻 &nbsp; Learning data structure, algorithm, system architecture, and design by practicing challenges on [Leetcode](https://leetcode.com/vijaykumarktg/).
- 🤔 &nbsp; Learning photography as a hobby from Coursera and writing blogs on [Dev Community](https://dev.to/vijaykumarktg18). -->
+ 🤔 &nbsp; Learning photography as a hobby from Coursera and writing blogs on [Dev Community](https://dev.to/vijaykumarktg18). 
 
 <h3> 🤝🏻 Connect with Me to Experience Web3 Magic</h3>
 
@@ -20,3 +20,4 @@
 <a href="https://stackoverflow.com/users/10521908/vijay-kumar" target="_blank">
   <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/stackoverflow.svg" />
 </a>
+-->
