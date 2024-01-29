@@ -8,7 +8,7 @@
 - 💼 &nbsp; Looking to collaborate on exciting projects.
 <!-- 💻 &nbsp; Learning data structure, algorithm, system architecture, and design by practising challenges on [Leetcode](https://leetcode.com/vijaykumarktg/).
  🤔 &nbsp; Learning photography as a hobby from Coursera and writing blogs on [Dev Community](https://dev.to/vijaykumarktg18). 
--->
+
 <h3> 🤝🏻 Connect with Me to Experience Web3 Magic</h3>
 
 <a href="mailto:vijaykumar.tech.mm@gmail.com" target="_blank">
@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/10521908/vijay-kumar" target="_blank">
   <img align="left" alt="This is me on StackOverflow" width="22px" src="https://img.icons8.com/?size=96&id=LnMweR0xWiV5&format=png" />
 </a>
-
+-->
 <!-- <div align="center">
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
