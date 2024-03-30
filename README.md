@@ -27,6 +27,9 @@
 <a href="https://stackoverflow.com/users/10521908/vijay-kumar" target="_blank">
   <img align="left" alt="This is me on StackOverflow" width="22px" src="https://img.icons8.com/?size=96&id=LnMweR0xWiV5&format=png" />
 </a>
+<a href="https://bento.me/vijay-kumar-tech" target="_blank">
+  <img align="left" alt="This is me on StackOverflow" width="22px" src="https://img.icons8.com/?size=160&id=PVrjosnAjBpN&format=png" />
+</a>
 
 <!-- <div align="center">
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
