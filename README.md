@@ -10,25 +10,13 @@
  🤔 &nbsp; Learning photography as a hobby from Coursera and writing blogs on [Dev Community](https://dev.to/vijaykumarktg18). 
 -->
 
-<h3> 🤝🏻 Connect with Me to Experience Web3 Magic</h3>
+<h3> 🤝🏻 Connect with Me to Experience the Web3 Magic</h3>
 
 <a href="mailto:vijaykumar.tech.mm@gmail.com" target="_blank">
   <img align="left" alt="Mail to Vijay" width="22px" src="https://img.icons8.com/?size=96&id=P7UIlhbpWzZm&format=png" />
 </a>
 <a href="https://www.linkedin.com/in/vijaykumarktg/" target="_blank">
   <img align="left" alt="Let's connect on LinkedIn" width="22px" src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png" />
-</a>
-<a href="https://twitter.com/vijaytechmm" target="_blank">
-  <img align="left" alt="Let's connect on X" width="22px" src="https://img.icons8.com/?size=96&id=ClbD5JTFM7FA&format=png" />
-</a>
-<a href="https://medium.com/@vijaykumar.tech.mm" target="_blank">
-  <img align="left" alt="You can follow me on Medium" width="22px" src="https://img.icons8.com/?size=100&id=111591&format=png" />
-</a>
-<a href="https://stackoverflow.com/users/10521908/vijay-kumar" target="_blank">
-  <img align="left" alt="This is me on StackOverflow" width="22px" src="https://img.icons8.com/?size=96&id=LnMweR0xWiV5&format=png" />
-</a>
-<a href="https://bento.me/vijay-kumar-tech" target="_blank">
-  <img align="left" alt="This is me on StackOverflow" width="22px" src="https://img.icons8.com/?size=160&id=PVrjosnAjBpN&format=png" />
 </a>
 
 <!-- <div align="center">
